@@ -1,5 +1,5 @@
 {
-  "name": "react-apollo-hooks",
+  "name": "taro-react-apollo-hooks",
   "version": "0.5.0",
   "description": "",
   "sideEffects": false,
@@ -22,12 +22,12 @@
     "prepublishOnly": "npm run build",
     "test": "jest"
   },
-  "author": "Daniel Trojanowski",
+  "author": "songlairui",
   "license": "MIT",
-  "homepage": "https://github.com/trojanowski/react-apollo-hooks#readme",
+  "homepage": "https://github.com/songlairui/taro-react-apollo-hooks#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/trojanowski/react-apollo-hooks.git"
+    "url": "https://github.com/songlairui/react-apollo-hooks.git"
   },
   "jest": {
     "setupTestFrameworkScriptFile": "./src/__testutils__/setupTests.ts",
